@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sridharvnp
-- 👀 I’m interested in designing..
-- 🌱 I’m currently learning Adobe XD
-- 💞️ I’m looking to collaborate on internship.
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Sridhar
+- 👀 I’m interested in UIdesigning..
+- 🌱 I’m currently learning Adobe illustrator
+- 💞️ I’m looking to collaborate on Internship.
+- 📫 How to reach me https://www.behance.net/sridharvadivel...
 
 <!---
 Sridharvnp/Sridharvnp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
